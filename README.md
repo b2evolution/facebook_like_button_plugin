@@ -1,7 +1,7 @@
 ## Instructions:
 
-1 Upload the plugin folder in your ../plugins/ folder.
-2 Install the plugin.
+1. Upload the plugin folder in your ../plugins/ folder.
+2. Install the plugin.
 
 Enjoy. That's it, really.
 
